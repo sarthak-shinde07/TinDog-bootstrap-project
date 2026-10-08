@@ -6,9 +6,13 @@ TinDog is a responsive landing page for a fictional mobile app that acts as a "T
 
 ## 📷 Screenshots
 
-| Title & Navigation Section | Features & Pricing Tiers |
+| Title & Navigation | Features Section |
 | :---: | :---: |
-| ![TinDog Title Section](images/screenshot-hero.png) | ![TinDog Features & Pricing](images/screenshot-pricing.png) |
+| ![Title Section](images/screenshot-hero.png) | ![Features Section](images/screenshot-features.png) |
+
+| Testimonials & Pricing | Footer & Call to Action |
+| :---: | :---: |
+| ![Pricing Section](images/screenshot-pricing.png) | ![Footer Section](images/screenshot-footer.png) | |
 
 *(Note: Make sure to replace `images/screenshot-hero.png` and `images/screenshot-pricing.png` with the actual file paths of your screenshots).*
 
