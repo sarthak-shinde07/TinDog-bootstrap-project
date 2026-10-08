@@ -39,3 +39,15 @@ TinDog-bootstrap-project/
 ├── style.css        # Custom CSS styles for the project
 ├── images/          # Directory containing app mockups, logos, and screenshots
 └── README.md        # Project documentation
+---
+
+## 👨‍💻 Author
+
+* **Sarthak Shinde**
+  * GitHub: [@sarthak-shinde07](https://github.com/sarthak-shinde07)
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
