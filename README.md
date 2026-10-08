@@ -8,11 +8,11 @@ TinDog is a responsive landing page for a fictional mobile app that acts as a "T
 
 | Title & Navigation | Features Section |
 | :---: | :---: |
-| ![Title Section](images/screenshot-hero.png) | ![Features Section](images/screenshot-features.png) |
+| ![Title Section](screenshot-hero.png) | ![Features Section](screenshot-features.png) |
 
 | Testimonials & Pricing | Footer & Call to Action |
 | :---: | :---: |
-| ![Pricing Section](images/screenshot-pricing.png) | ![Footer Section](images/screenshot-footer.png) | |
+| ![Pricing Section](screenshot-pricing.png) | ![Footer Section](screenshot-footer.png) | |
 
 *(Note: Make sure to replace `images/screenshot-hero.png` and `images/screenshot-pricing.png` with the actual file paths of your screenshots).*
 
